@@ -1,0 +1,24 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure JS Exel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oksankapl17/excel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exel"
+  ],
+  "author": "Oksana Plotnikova <oksankapl17@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oksankapl17/excel-course/issues"
+  },
+  "homepage": "https://github.com/oksankapl17/excel-course#readme"
+}
